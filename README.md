@@ -1,1 +1,1 @@
-# The_tect_academy_HTML_CSS_projects
+# The_tech_academy_HTML_CSS_projects
